@@ -1,0 +1,6 @@
+{
+  "name": "Aaranya Interiors",
+  "description": "Bespoke architectural interior design studio serving Greater Noida, Noida Extension, and Delhi NCR, with automated consultation booking and Google Sheets lead management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
